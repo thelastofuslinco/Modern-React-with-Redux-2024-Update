@@ -1,1 +1,1 @@
-# 2025-studies-project
+# Modern React with Redux [2024 Update]
